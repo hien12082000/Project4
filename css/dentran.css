@@ -1,0 +1,24 @@
+body {
+    background-color: #EEEEEE;
+    display: flex;
+    justify-content: center;
+}
+
+#main {
+    background-color: #fff;
+    width: 80%;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.logo {
+    width: 250px;
+}
+
+p {
+    line-height: 1.65;
+    margin-top: 10px;
+}
+
+img {
+    max-width: 100%;
+}
